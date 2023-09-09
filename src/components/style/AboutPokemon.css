@@ -1,0 +1,51 @@
+.about-pokemon-card-left {
+  background-color: rgb(241, 200, 36);
+  padding: 15px 0 15px;
+}
+
+.about-left {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+
+.about-left img {
+  width: 22%;
+  object-fit: cover;
+}
+
+.about-left a {
+  margin-left: 150px;
+  padding: 10px 20px;
+  color: #000;
+  background-color: #ffff;
+  border-radius: 10px;
+}
+
+.about-pokemon-card-left h2 {
+  margin-left: 10%;
+  text-transform: capitalize;
+  font-size: 70px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.about-pokemon-card-right {
+  padding-top: 30px;
+  height: 50vh;
+}
+
+
+.about-pokemon-card-right span {
+  font-size: 15px;
+}
+
+.loading-spinner-about {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center;
+  height: 100vh;
+}
+
+#rc-tabs-1-panel-3 {
+  width: 100%
+}
